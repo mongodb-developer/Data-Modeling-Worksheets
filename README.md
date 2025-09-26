@@ -2,6 +2,10 @@
 
 This repository hosts a PDF.js-based viewer for the **MongoDB Data Modeling Workshop** worksheet. You can edit the worksheet directly in your browser without downloading any files.
 
+## Live worksheet
+
+The live editable worksheet is deployed at: https://mongodb-developer.github.io/Data-Modeling-Worksheets/web/viewer.
+
 ## Files
 
 - `worksheet.pdf` – The MongoDB Data Modeling Workshop worksheet.  
