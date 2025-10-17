@@ -4,7 +4,9 @@ This repository hosts a PDF.js-based viewer for the **MongoDB Data Modeling Work
 
 ## Live worksheet
 
-The live editable worksheet is deployed at: https://mongodb-developer.github.io/Data-Modeling-Worksheets/web/viewer.
+The live editable worksheet for the "Data Modeling" workshop is deployed at: https://mongodb-developer.github.io/Data-Modeling-Worksheets/web/viewer.
+
+The worksheet for the "Data Modeling for RDBMS Professionals" workshop is deployed at: https://mongodb-developer.github.io/Data-Modeling-Worksheets/web/viewer?file=../rdbms_worksheet.pdf.
 
 ## Files
 
