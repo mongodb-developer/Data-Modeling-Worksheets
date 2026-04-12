@@ -8,6 +8,8 @@ The live editable worksheet for the "Data Modeling" workshop is deployed at: htt
 
 The worksheet for the "Data Modeling for RDBMS Professionals" workshop is deployed at: https://mongodb-developer.github.io/Data-Modeling-Worksheets/web/viewer?file=../rdbms-to-mongodb-worksheets.pdf.
 
+The worksheet for the "Data Modeling for FSI" workshop is deployed at: https://mongodb-developer.github.io/Data-Modeling-Worksheets/web/viewer?file=../data-modeling-fsi.pdf.
+
 ## Files
 
 - `worksheet.pdf` – The MongoDB Data Modeling Workshop worksheet.  
