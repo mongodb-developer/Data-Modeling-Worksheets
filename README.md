@@ -10,6 +10,8 @@ The worksheet for the "Data Modeling for RDBMS Professionals" workshop is deploy
 
 The worksheet for the "Data Modeling for FSI" workshop is deployed at: https://mongodb-developer.github.io/Data-Modeling-Worksheets/web/viewer?file=../data-modeling-fsi.pdf.
 
+The worksheet for the "AI System Design" workshop is deployed at: https://mongodb-developer.github.io/Data-Modeling-Worksheets/web/viewer?file=../ai-system-design.pdf.
+
 ## Files
 
 - `worksheet.pdf` – The MongoDB Data Modeling Workshop worksheet.  
